@@ -1,5 +1,7 @@
 ## Demo user credentials are :user@example.com / password
 
+# As of now we are using local storage to save data. 
+
 
 # Welcome to your Task Manager project
 
