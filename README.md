@@ -1,3 +1,6 @@
+## Demo user credentials are :user@example.com / password
+
+
 # Welcome to your Task Manager project
 
 This project has the follwing set up:
