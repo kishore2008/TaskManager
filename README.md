@@ -1,5 +1,7 @@
 ## Demo user credentials are :user@example.com / password
 
+## You can just run "npm start" to run this project.
+
 # As of now we are using local storage to save data. 
 
 
